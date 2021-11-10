@@ -1,0 +1,3 @@
+rootProject.name = 'devops_sample_gradle'
+
+include ':utils'
